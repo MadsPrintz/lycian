@@ -1,7 +1,7 @@
 ### 6-Week Treadmill Workout Regimen
 
 #### Week 1
-- [ ] **Day 1 (August 3):** 45 minutes at 5 km/h, 5-degree incline
+- [x] **Day 1 (August 3):** 45 minutes at 5 km/h, 5-degree incline
 - [ ] **Day 2 (August 4):** Rest
 - [ ] **Day 3 (August 5):** 45 minutes at 5 km/h, 5-degree incline
 - [ ] **Day 4 (August 6):** Rest

@@ -3,7 +3,7 @@
 #### Week 1
 - [x] **Day 1 (August 3):** 45 minutes at 5 km/h, 5.5-degree incline
 - [x] **Day 2 (August 4):** Rest
-- [ ] **Day 3 (August 5):** 45 minutes at 5.1 km/h, 5.5-degree incline
+- [x] **Day 3 (August 5):** 45 minutes at 5.1 km/h, 5.5-degree incline
 - [ ] **Day 4 (August 6):** Rest
 - [ ] **Day 5 (August 7):** 50 minutes at 5.1 km/h, 5.5-degree incline
 - [ ] **Day 6 (August 8):** Rest

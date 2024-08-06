@@ -30,10 +30,7 @@
 - **Sko**
   - [ ] Kaj
   - [ ] Mads
-- **Tøj**
-  - [ ] Kaj
-  - [ ] Mads
-- **Sun Hoodie**
+- **Tøj** [Inspiration](https://www.outdoorgearlab.com/topics/clothing-mens/best-sun-shirt)
   - [ ] Kaj
   - [ ] Mads
 - **Jakke**

@@ -18,6 +18,9 @@
 
 #### Individuel
 
+- **Vandrestave**
+  - [ ] Kaj
+  - [ ] Mads
 - **Rygsæk**
   - [x] Kaj
   - [ ] Mads

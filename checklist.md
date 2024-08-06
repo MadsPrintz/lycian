@@ -16,7 +16,7 @@ Sure, you can add links to the items in your checklist by using markdown link sy
 - [x] Telt
 - [x] Flybilletter [LINK] (https://www.kiwi.com/en/manage/548603990?source=account)
 - [ ] Førstehjælpskasse
-- [ ] Solcreme
+- [x] Solcreme
 
 #### Individuel
 

@@ -13,13 +13,13 @@
 - [ ] Madlavningsudstyr
 - [x] Telt
 - [x] Flybilletter [LINK](https://www.kiwi.com/en/manage/548603990?source=account)
-- [ ] Førstehjælpskasse
+- [ ] Førstehjælps grej
 - [x] Solcreme
 
 #### Individuel
 
 - **Rygsæk**
-  - [ ] Kaj
+  - [x] Kaj
   - [ ] Mads
 - **Vandflaske(r)**
   - [ ] Kaj
@@ -30,24 +30,21 @@
 - **Tøj**
   - [ ] Kaj
   - [ ] Mads
-- **Undertøj**
-  - [ ] Kaj
-  - [ ] Mads
 - **Sun Hoodie**
   - [ ] Kaj
   - [ ] Mads
 - **Jakke**
-  - [ ] Kaj
+  - [x] Kaj
   - [ ] Mads
 - **Badetøj**
   - [ ] Kaj
   - [ ] Mads
 - **Solbriller**
-  - [ ] Kaj
+  - [x] Kaj
   - [ ] Mads
 - **Forsikring**
   - [ ] Kaj
   - [ ] Mads
 - **Pas**
-  - [ ] Kaj
+  - [x] Kaj
   - [ ] Mads

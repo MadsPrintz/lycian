@@ -1,5 +1,3 @@
-Sure, you can add links to the items in your checklist by using markdown link syntax. Here's your updated checklist with a link to the plane tickets:
-
 ### Lycian Way Checklist
 
 #### Fælles
@@ -53,5 +51,3 @@ Sure, you can add links to the items in your checklist by using markdown link sy
 - **Pas**
   - [ ] Kaj
   - [ ] Mads
-
-You can add links in the same way for any other items in your checklist by using the markdown link syntax `[link text](URL)`.
